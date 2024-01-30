@@ -2,7 +2,7 @@ package buteelt;
 
 import java.util.Scanner;
 import java.util.ArrayList;
-
+//Алдаа шалгах
 public class MyHashTable extends ArrayList{
 	
 	public int sum(ArrayList<Integer> sa)
